@@ -4,5 +4,4 @@
 sudo apt update
 sudo ate upgrade 
 # and ...
-# By writting the code and run it in the terminal by "bash (file name)"
-
+# By writting the code and run it in the terminal by "bash (file name)..."
