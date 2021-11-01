@@ -1,5 +1,5 @@
 #!/bin/bash
-#Variables 
+#Variables...
 Name="Max" #Tip:all variables and = and values have to be close together without space
 Lastname="Cruise"
 # to print , write echo
