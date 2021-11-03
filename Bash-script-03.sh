@@ -1,5 +1,5 @@
 #!/bin/bash
-# Input
+# Input...
 # use read to input
 read Name
 read Lastname
