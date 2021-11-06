@@ -1,5 +1,5 @@
 #!/bin/bash
-# if conditions
+# if conditions...
 
 read -p "Enter your age > " Age
 # Tip: Be careful about the spaces between them
